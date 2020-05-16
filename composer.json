@@ -1,0 +1,15 @@
+{
+    "name": "ini1912/small-talk-with-hexlet",
+    "description": "smallTalkWithHexlet?",
+    "authors": [
+        {
+            "name": "ini1990",
+            "email": "ini1990g@gmail.com"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "./sayHi",
+        "./sayBye"
+    ]
+}
